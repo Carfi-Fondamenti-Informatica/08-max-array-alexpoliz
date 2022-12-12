@@ -1,5 +1,5 @@
 #include <iostream>
-#include <lib.h>
+#include "lib.h"
 using namespace std;
 int main(){
   int d=0; cin>>d; float numero [d]; float x=0;
