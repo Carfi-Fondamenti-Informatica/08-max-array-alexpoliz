@@ -1,1 +1,1 @@
-float funzione(float a, float b);
+float maggiore (float a, float b);
