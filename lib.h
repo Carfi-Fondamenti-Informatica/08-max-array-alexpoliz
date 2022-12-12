@@ -1,1 +1,1 @@
-float funzione(float, float);
+float funzione(float a, float b);
