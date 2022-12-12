@@ -11,6 +11,6 @@ int main(){
         x=n;
     }
     }
-    cout <<x;
+    cout << x;
   return 0;
 }
